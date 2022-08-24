@@ -4,8 +4,8 @@
 
 ## Built With
 
-- Major languages - React, Axios
-- Technologies used - VSCode
+- Major languages - JavaScript
+- Technologies used - VSCode, React, Axios
 
 ## Getting Started
 
