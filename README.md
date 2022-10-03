@@ -1,6 +1,6 @@
 # A Crypto Web App with Real-Time Data from API
 
- A Web App build in React JS, that draws information from an API, and displays Crpto data in real-time.
+ A Web App built in React JS, that draws information from an API, and displays Crypto data in real-time.
 
 ## Built With
 
